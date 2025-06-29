@@ -126,11 +126,7 @@ Sai Chandrasekhar RS
 S. Harish
 
 
-Under the guidance of:
 
-Mrs. B. Spandana, Assistant Professor, Dept. of AIML
-
-Sreyas Institute of Engineering & Technology, JNTUH
 
 📄 License
 This project is part of an academic mini project and is licensed under the MIT License for educational purposes.
